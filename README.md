@@ -12,7 +12,7 @@ The dataset can also be found on Kaggle. [Kaggle](https://www.kaggle.com/dataset
 
 ### 1. Download the Dataset and Notebook:
 
-### 2. Install and Open Jupyter Notebook Locally or upload notebook and datset to Google Colab:
+### 2. Install and Open Jupyter Notebook Locally or upload notebook and data to Google Colab:
 
 - Jupyter Notebook: https://jupyter.org/install
 - Google Colab: https://colab.research.google.com/
